@@ -1,0 +1,585 @@
+    1  sudo sed -i -e 's%http://.*.ubuntu.com%http://ftp.jaist.ac.jp/pub/Linux%g' /etc/apt/sources.list
+    2  bash ../../mnt/c/Users/user_name/Downloads/Anaconda3-2020.02-Linux-x86_64.sh
+    3  cd ../
+    4  ls
+    5  cd ../
+    6  ls
+    7  cd mnt
+    8  ls
+    9  cd c
+   10  ls
+   11  cd Users
+   12  ls
+   13  cd kitano
+   14  ls
+   15  cd Downloads
+   16  ls
+   17  exit
+   18  bash ../../mnt/c/Users/kitano/Downloads/Anaconda3-2020.02-Linux-x86_64.sh
+   19  python
+   20  jupyternotebook
+   21  source ~/.bashrc
+   22  conda -V
+   23  python
+   24  jupyter notebook
+   25  sudo apt-get install aptitude
+   26  sudo aptitude update
+   27  sudo apt install mecab
+   28  sudo apt install libmecab-dev
+   29  apt update
+   30  sudo apt install mecab
+   31  sudo apt-get install mecab libmecab-dev mecab-ipadic
+   32  exit
+   33  sudo apt update
+   34  sudo apt upgrade
+   35  sudo apt install mecab
+   36  sudo apt install libmecab-dev
+   37  sudo apt install mecab-ipadic-utf8
+   38  conda create -n sumpy python=3.7
+   39  conda activate sumpy
+   40  pip install mecab-python3
+   41  pip install environment_kernels
+   42  pip install jupyter
+   43  jupyter
+   44  jupyter notebook
+   45  cd ../../
+   46  ls
+   47  cd mtn
+   48  ls
+   49  cd c
+   50  cd mnt
+   51  cd c
+   52  ls
+   53  cd Users
+   54  ls
+   55  cd kitano
+   56  ls
+   57  cd Desktop
+   58  ls
+   59  cd text_summarization
+   60  jupyter notebook
+   61  git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
+   62  git clone --depth 1 git@github.com:neologd/mecab-ipadic-neologd.git
+   63  cd /mnt/c/Users/kitano/Desktop/text_summarization
+   64  exit
+   65  conda activate sumpy
+   66  sudo apt install make
+   67  git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
+   68  cd mecab-ipadic-neologd
+   69  ./bin/install-mecab-ipadic-neologd -n
+   70  exit
+   71  conda activate sumpy
+   72  ls
+   73  cd /mnt/c/Users/kitano/Desktop/text_summarization
+   74  jupyter notebook
+   75  exit
+   76  history
+   77  exit
+   78  conda activate sumpy
+   79  cd /mnt/c/Users/kitano/Desktop/text_summarization
+   80  jupyter notebook
+   81  exit
+   82  cd /mnt/c/Users/kitano/Desktop/test
+   83  conda create -n test
+   84  pip install python=3.6
+   85  pip install python==3.6
+   86  conda remove -n test all
+   87  conda remove -n test --all
+   88  conda create -n test python=3.7.4
+   89  conda activate test
+   90  conda install jupyter
+   91  history
+   92  pip install environment_kernels
+   93  pip install transformers
+   94  pip install torch==2.2.2
+   95  pip install torch
+   96  pip install torchtext
+   97  jupyter notebook
+   98  git clone git@github.com: huggingface/transformers.git
+   99  jupyter notebook
+  100  y
+  101  jupyter notebook
+  102  pip install git+git://github.com/huggingface/transformers.git
+  103  jupyter notebook
+  104  exit
+  105  conda activate test
+  106  pip install ./transformers
+  107  pip install git+git://github.com/huggingface/transformers.git
+  108  pip install ./transformers
+  109  exit
+  110  conda activate test
+  111  cd /mnt/c/Users/kitano/Desktop/test
+  112  jupyter notebook
+  113  history
+  114  pip install mecab-python3
+  115  jupyter notebook
+  116  history
+  117  git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
+  118  cd mecab-ipadic-neologd
+  119  ./bin/install-mecab-ipadic-neologd -n
+  120  cd ../
+  121  jupyter notebook
+  122  history
+  123  sudo apt install make
+  124  jupyter notebook
+  125  history
+  126  exit
+  127  conda activate sumpy
+  128  cd /mnt/c/Users/kitano/Desktop/test
+  129  cd ../
+  130  ls
+  131  cd text_summarization
+  132  jupyter notebook
+  133  pip freeze
+  134  exit
+  135  cd /mnt/c/Users/kitano/Desktop/test
+  136  conda activate test
+  137  jupyter notebook
+  138  mecab
+  139  conda deactivate
+  140  mecab
+  141  conda activate sumpy
+  142  mecab
+  143  exit
+  144  mecab
+  145  conda activate sumpy
+  146  mecab
+  147  conda deactivate
+  148  conda activate test
+  149  mecab
+  150  history
+  151  conda activate test
+  152  cd /mnt/c/Users/kitano/Desktop/test
+  153  jupyter notebook
+  154  exit
+  155  conda activate test
+  156  cd /mnt/c/Users/kitano/Desktop/test
+  157  jupyter notebook
+  158  exit
+  159  cd /mnt/c/Users/kitano/Desktop/NLP100knock2020
+  160  conda activate test
+  161  jupyter notebook
+  162  mecab
+  163  pip install mecab-python-0.996
+  164  exit
+  165  mecab
+  166  ls
+  167  conda activate test
+  168  cd /mnt/c/Users/kitano/Desktop/NLP100knock2020
+  169  pip install mecab-python3echo `mecab-config --dicdir`"/mecab-ipadic-neologd"
+  170  echo `mecab-config --dicdir`"/mecab-ipadic-neologd"
+  171  jupyter notebook
+  172  mecab < ch04/neko.txt > ch04/neko.txt.mecab
+  173  jupyter notebook
+  174  exit
+  175  cd /mnt/c/Users/kitano/Desktop/NLP100knock2020
+  176  conda activate test]
+  177  conda activate test
+  178  jupyter notebook
+  179  exit
+  180  cd /mnt/c/Users/kitano/Desktop/NLP100knock2020
+  181  conda activate test
+  182  jupyter notebook
+  183  exit
+  184  cd /mnt/c/Users/kitano/Desktop/NLP100knock2020
+  185  conda activate test
+  186  jupyter notebook
+  187  exit
+  188  conda activate test
+  189  cd /mnt/c/Users/kitano/Desktop/NLP100knock2020
+  190  jupyter notebook
+  191  exit
+  192  tar xzvf CRF++-0.58.tar.gz
+  193  ls
+  194  exit
+  195  ls
+  196  exit
+  197  ls
+  198  tar xzvf CRF++-0.58.tar.gz
+  199  ls
+  200  exit
+  201  ls
+  202  tar xzvf CRF++-0.58.tar.gz
+  203  sudo yum install bzip2
+  204  sudo apt install yum
+  205  sudo yum install bzip2
+  206  sudo apt install yum
+  207  apt-get update
+  208  sudo apt-get update
+  209  sudo apt install yum
+  210  sudo yum install bzip2
+  211  exit
+  212  tar xzvf CRF++-0.58.tar.gz
+  213  ls
+  214  cd ../
+  215  ls
+  216  exit
+  217  cd ../
+  218  ls
+  219  cd opt
+  220  ls
+  221  tar xzvf CRF++-0.58.tar.gz
+  222  exit
+  223  ls
+  224  exit
+  225  ls
+  226  exit
+  227  ls
+  228  exit
+  229  ls
+  230  exit
+  231  ls
+  232  exit
+  233  ls
+  234  exit
+  235  cp -r /mnt/c/CRF++-0.58 ./
+  236  exti
+  237  exit
+  238  cp -r /mnt/c/CRF++-0.58 ./
+  239  ls
+  240  cd ../
+  241  ls
+  242  cd ../
+  243  ls
+  244  cp -r /mnt/c/CRF++-0.58 ./opt
+  245  cd mnt
+  246  ls
+  247  cd c
+  248  ls
+  249  cd Users
+  250  ls
+  251  cd Kitano
+  252  ls
+  253  cd Desktop
+  254  exit
+  255  yum --version
+  256  yum --help
+  257  yum clean all
+  258  exit
+  259  ps aux | grep yum
+  260  exit
+  261  yum-complete-transaction
+  262  yum install gcc
+  263  yum update
+  264  yum install gcc
+  265  sudo yum install gcc make glibc gcc-c++ python-deve
+  266  python
+  267  tar xzvf CRF++-0.58.tar.gz
+  268  sudo apt install yum
+  269  sudo yum install gcc make glibc gcc-c++ python-devel
+  270  sudo yum update
+  271  sudo -s
+  272  yum update
+  273  sudo -s
+  274  yum-complete-transaction
+  275  sudo pat install yum-utils
+  276  sudo apt install yum-utils
+  277  sudo pat install yum-utils
+  278  yum-complete-transaction
+  279  sudo -s
+  280  cp -r /mnt/c/Users/Kitano/Desktop/CRF++-0.58 ./
+  281  ls
+  282  cd CRF++-0.58
+  283  ./configure
+  284  make
+  285  cd ../
+  286  yum install gcc
+  287  sudo -s
+  288  yum install gcc
+  289  sudo -s
+  290  sudo apt-get purge yum
+  291  sudo apt-get autoremove
+  292  exit
+  293  sudo apt-get gcc-++
+  294  sudo apt-get gcc-c++
+  295  sudo aptitude gcc-c++
+  296  gcc --version
+  297  g++ --version
+  298  sudo apt-get install build-essential
+  299  g++ --version
+  300  cd CRF++-0.58
+  301  make
+  302  ./configure
+  303  make
+  304  sudo make install
+  305  cd ../
+  306  history
+  307  cp -r /mnt/c/Users/Kitano/Desktop/cabocha-0.69.tar.bz2 ./
+  308  tar -jxvf cabocha-0.69.tar.bz2
+  309  cd cabocha-0.69
+  310  ./configure --with-charset=utf8
+  311  make
+  312  sudo make install
+  313  echo 隣の客はよく柿食う客だ | cabocha
+  314  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+  315  echo $LD_LIBRARY_PATH
+  316  :/usr/local/lib
+  317  echo $LD_LIBRARY_PATH :/usr/local/lib
+  318  echo $LD_LIBRARY_PATH
+  319  echo 隣の客はよく柿食う客だ | cabocha
+  320  which cabocharc
+  321  sudo find / -name cabocharc
+  322  export CABOCHARC="/home/kitano/cabocha-0.69/cabocharc"
+  323  echo 隣の客はよく柿食う客だ | cabocha
+  324  cd ../
+  325  ls
+  326  cd ../
+  327  ls
+  328  cd usr
+  329  ls
+  330  cd local
+  331  cp -r /mnt/c/Users/Kitano/Desktop/cabocha ./
+  332  exit
+  333  cd ../
+  334  ls
+  335  cd ../
+  336  ls
+  337  cd /usr/local
+  338  cp -r /mnt/c/Users/Kitano/Desktop/cabocha ./
+  339  sudo cp -r /mnt/c/Users/Kitano/Desktop/cabocha ./
+  340  exit
+  341  echo 隣の客はよく柿食う客だ | cabocha
+  342  which libcrfpp.so.0
+  343  find / -name libcabocha.so.5 2>/dev/null
+  344  sudo find / | grep libcabocha
+  345  sudo ln -s /usr/local/lib/libmecab.so.5.0.0 /lib64/libmecab.so.5
+  346  echo 隣の客はよく柿食う客だ | cabocha
+  347  sudo ln -s /usr/local/lib/libcabocha.so.5.0.0 /lib64/libcabocha.so.5
+  348  echo 隣の客はよく柿食う客だ | cabocha
+  349  mecab
+  350  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+  351  echo 隣の客はよく柿食う客だ | cabocha
+  352  ls
+  353  history
+  354  echo $LD_LIBRARY_PATH
+  355  echo 隣の客はよく柿食う客だ | cabocha
+  356  ls
+  357  cd ../
+  358  cd../
+  359  ls
+  360  cd ../
+  361  ls
+  362  cd usr/local/etc
+  363  sudo cp -r /mnt/c/Users/Kitano/Desktop/cabocha ./
+  364  ls
+  365  exit
+  366  echo 隣の客はよく柿食う客だ | cabocha
+  367  sudo ldconfig
+  368  echo 隣の客はよく柿食う客だ | cabocha
+  369  cd ../../
+  370  ;s
+  371  ls
+  372  cd usr
+  373  cd local
+  374  ls
+  375  cd etc
+  376  sudo cp -r /mnt/c/Users/Kitano/Desktop/cabocha/cabocharc ./
+  377  ls
+  378  exit
+  379  sudo ldconfig
+  380  echo 隣の客はよく柿食う客だ | cabocha
+  381  cd ../../usr/local/lib
+  382  sudo cp -r /mnt/c/Users/Kitano/Desktop/cabocha ./
+  383  ls
+  384  exit
+  385  sudo ldconfig
+  386  echo 隣の客はよく柿食う客だ | cabocha
+  387  ls
+  388  cd cabocha-0.69
+  389  ./configure --with-charset=utf8 --enable-utf8-only
+  390  sudo ldconfig
+  391  make
+  392  sudo config
+  393  sudo ldconfig
+  394  cabocha
+  395  cd ../
+  396  cd ../../usr/local/lib
+  397  cd cabocha
+  398  cd /model
+  399  ls
+  400  cd model
+  401  ls
+  402  rename .txt .model chunk.ipa.txt
+  403  sudo apt install rename
+  404  rename .txt .model chunk.ipa.txt
+  405  rename txt model chunk.ipa.txt
+  406  ls
+  407  sudo cp -r /mnt/c/Users/Kitano/Desktop/cabocha/chunk.ipa.model ./
+  408  sudo cp -r /mnt/c/Users/Kitano/Desktop/cabocha/model/chunk.ipa.model ./
+  409  ls
+  410  echo 隣の客はよく柿食う客だ | cabocha
+  411  cabocha
+  412  sudo cp -r / ./
+  413  echo 隣の客はよく柿食う客だ | cabocha
+  414  sudo ldconfig
+  415  echo 隣の客はよく柿食う客だ | cabocha
+  416  ls
+  417  cd ../
+  418  ls
+  419  rm cabocha
+  420  rm -r cabocha
+  421  ls
+  422  sudo rm -r cabocha
+  423  ls
+  424  history
+  425  sudo cp -r /mnt/home/kitano/cabocha-0.69 ./
+  426  sudo cp -r /home/kitano/cabocha-0.69 ./
+  427  ls
+  428  echo 隣の客はよく柿食う客だ | cabocha
+  429  sudo ldconfig
+  430  echo 隣の客はよく柿食う客だ | cabocha
+  431  ls
+  432  rename cabocha-0.69 cabocha cabocha-0.69
+  433  sudo rename cabocha-0.69 cabocha cabocha-0.69
+  434  rename s"/cabocha-0.69/cabocha;" cabocha-0.69
+  435  ls
+  436  rename s"/cabocha-0.69/cabocha/" cabocha-0.69
+  437  sudo rename s"/cabocha-0.69/cabocha/" cabocha-0.69
+  438  ls
+  439  sudo ldconfig
+  440  echo 隣の客はよく柿食う客だ | cabocha
+  441  cd ../../]
+  442  cd ../../
+  443  cd ../
+  444  ls
+  445  cd home/
+  446  ls
+  447  cd kitano
+  448  ls
+  449  cd cabocha-0.69
+  450  cd python
+  451  sudo python3 setup.py install
+  452  sudo apt-get install python3-distutils
+  453  sudo python3 setup.py install
+  454  cd ../../
+  455  ls
+  456  git clone https://github.com/taku910/cabocha
+  457  cd cabocha
+  458  pip install python/
+  459  ls
+  460  history
+  461  echo $LD_BINARY_PATH :/usr/local/bin
+  462  export $LD_BINARY_PATH :/usr/local/bin
+  463  export $LD_BINARY_PATH:/usr/local/bin
+  464  pip install python/
+  465  sudo python3 setup.py build_ext
+  466  cd ../
+  467  ls
+  468  cd cabocha
+  469  ls
+  470  cd python
+  471  ls
+  472  sudo python3 setup.py build_ext
+  473  sudo python3 setup.py install
+  474  sudo ldconfig
+  475  sudo python3 setup.py install
+  476  exit
+  477  cd cabocha
+  478  cd python
+  479  sudo python3 setup.py install
+  480  vi setup.py
+  481  sudo python3 setup.py install
+  482  sudo ldconfig
+  483  sudo python3 setup.py instal
+  484  vis setup.py
+  485  vi setup.py
+  486  sudo ldconfig
+  487  sudo python3 setup.py instal
+  488  exit
+  489  history
+  490  cd ../../
+  491  ls
+  492  cd usr
+  493  ls
+  494  cd /bin
+  495  ls
+  496  cd ../
+  497  cd usr/local/bin
+  498  ls
+  499  sudo cp -r /mnt/home/kitano/cabocha-0.69/cabocha-config ./
+  500  sudo cp -r /home/kitano/cabocha-0.69/cabocha-config ./
+  501  ls
+  502  cd ../../../
+  503  ls
+  504  cd home/kitano
+  505  ls
+  506  cd caboha-0.69/python
+  507  cd caboha-0.69/python3
+  508  cd caboha-0.69
+  509  cd cabocha-0.69/python
+  510  sudo ldconfig
+  511  sudo python3 setup.py instal
+  512  sudo python3 setup.py install
+  513  sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+  514  sudo python3 setup.py install
+  515  python
+  516  python setup.py build_ext
+  517  suod python setup.py build_ext
+  518  sudo python setup.py build_ext
+  519  sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+  520  sudo ldconfig
+  521  sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+  522  sudo python setup.py build_ext
+  523  apt install python3-dev
+  524  sudo apt install python-dev3
+  525  sudo apt update
+  526  sudo apt upgrade
+  527  sudo apt install python-pip
+  528  apt install python3-dev
+  529  sudo apt install python-dev3
+  530  sudo python setup.py build_ext
+  531  sudo python3 setup.py install
+  532  sudo ldconfig
+  533  python
+  534  exit
+  535  python
+  536  ls
+  537  cd cabocha-0.69
+  538  ls
+  539  python
+  540  cd python
+  541  python
+  542  sudo python3 setup.py install
+  543  python3
+  544  ls -l
+  545  ls
+  546  history
+  547  find / -name _CaboCha 2>/dev/null
+  548  python setup.py build_ext
+  549  python setup.py install
+  550  sudo python setup.py build_ext
+  551  sudo python setup.py install
+  552  /sbin/ldconfig
+  553  sudo /sbin/ldconfig
+  554  python
+  555  ldconfig
+  556  sudo ldconfig
+  557  which _CaboCha
+  558  swig -python -shadow -c++ swig/CaboCha.i
+  559  sudo apt install swig
+  560  swig -python -shadow -c++ swig/CaboCha.i
+  561  sudo apt-get install swig python3-dev
+  562  swig -python -shadow -c++ swig/CaboCha.i
+  563  python
+  564  cd ../../
+  565  ls
+  566  cd cabocha
+  567  cd python
+  568  python
+  569  python setup.py build_ext
+  570  python setup.py install
+  571  sudo ldconfig
+  572  python
+  573  exit
+  574  python
+  575  exit
+  576  cd ../../mnt/c/user/kitano/Desktop
+  577  cd ../../mnt/c/
+  578  ls
+  579  cd Users
+  580  cd kitano
+  581  cd Desktop/NLP100knock2020
+  582  cat file
+  583  touch hist.txt
+  584  cat hist.txt
+  585  history > hist.txt
